@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Inaolaji Taofeek (Aladdin)</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate software engineer at @100devs, building a network</h3>
 
 - 💬 Ask me about **React, JavaScript**
 
