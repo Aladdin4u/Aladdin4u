@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFFwVKVmLk/SCotyUj3Hz0K6Wve4bKAQQ/view?utm_content=DAFFwVKVmLk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://aladdin4u.io)
+[![MasterHead](https://drive.google.com/file/d/1VRao1xZvCSkA_osPq-MaL_uX63GOePvh/view?usp=drivesdk)](https://aladdin4u.io)
 <h1 align="center">Hi 👋, I'm Inaolaji Taofeek (aladdin)</h1>
 <h3 align="center">A passionate full Stack software engineer from Nigeria,100Devs cohort member.</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/>
