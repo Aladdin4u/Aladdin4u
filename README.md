@@ -1,4 +1,4 @@
-[![MasterHead](https://www.nairaland.com/attachments/15765887_imagebaa2c3c01332428683e3534652e73ebb20220716232820_jpeg541f841147a8579b2b29d6c851c02739)](https://aladdin4u.io)
+[![MasterHead](https://www.nairaland.com/attachments/15765887_imagebaa2c3c01332428683e3534652e73ebb20220716232820_jpeg541f841147a8579b2b29d6c851c02739)]
 <h1 align="center">Hi 👋, I'm Inaolaji Taofeek (aladdin)</h1>
 <h3 align="center">A passionate full Stack software engineer from Nigeria,100Devs cohort member.</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/>
