@@ -39,13 +39,13 @@
         <tbody>
             <tr>
                 <td align="left">
-                    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladdin4u&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aladdin4u" /></p>
+                    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladdin4u&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aladdin4u" /></p>
                 </td>
               <td align="left">
                     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aladdin4u&show_icons=true&theme=tokyonight" alt="aladdin4u" /></p>
                 </td>
                <td align="left">
-                  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aladdin4u&show_icons=true&theme=tokyonight" alt="aladdin4u" /></p>
+                  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aladdin4u&show_icons=true&theme=tokyonight" alt="aladdin4u" /></p>
                 </td>
             </tr>
             </tbody>
