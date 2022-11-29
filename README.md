@@ -41,7 +41,7 @@
             <img src="https://user-images.githubusercontent.com/101972392/203931456-2138d0b5-b856-42b4-bd9a-3a403d199bbc.gif" width="100%"  alt="world-cup-2022"/>
         </a>
           <p>&nbsp;<img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /> <img align="center" src="https://img.shields.io/static/v1?label=|&message=LIVE&color=285f65&style=plastic&logo=wordpress" alt="website" /></p>
-          <p>![EWEBSITE BADGE](https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=website)</p>
+          <p>HTML, CSS, Javascript, React, Vite - A LiveScores App to stay updated for all World Cup 2022 matches, stats, fixture and table</p>
                 </td>
                <td align="center">
                   <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aladdin4u&show_icons=true&theme=tokyonight" alt="aladdin4u" /></p>
