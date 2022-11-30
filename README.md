@@ -59,7 +59,7 @@
               <td align="center">
                     <a target="_blank" href="https://game-of-throne-api.herokuapp.com/"><h4>Game of Throne API</h4></a>
         <br />
-      <a target="_blank" href="https://worldcup2022app.netlify.app/">
+      <a target="_blank" href="https://game-of-throne-api.herokuapp.com/">
             <img src="https://user-images.githubusercontent.com/101972392/204691275-7ac6a949-0219-4e57-a4c0-2d6d68f27def.gif" width="100%"  alt="world-cup-2022"/>
         </a>
           <p>&nbsp;
