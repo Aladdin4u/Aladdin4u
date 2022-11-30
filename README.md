@@ -35,16 +35,24 @@
         <tbody>
             <tr>
               <td align="center">
-                    <a target="_blank" href="https://worldcup2022app.netlify.app/">world-cup-2022</a>
+                    <a target="_blank" href="https://worldcup2022app.netlify.app/"><h4>world-cup-2022</h4></a>
         <br />
       <a target="_blank" href="https://worldcup2022app.netlify.app/">
             <img src="https://user-images.githubusercontent.com/101972392/203931456-2138d0b5-b856-42b4-bd9a-3a403d199bbc.gif" width="100%"  alt="world-cup-2022"/>
         </a>
-          <p>&nbsp;<img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /> <img align="center" src="https://img.shields.io/static/v1?label=|&message=LIVE&color=285f65&style=plastic&logo=wordpress" alt="website" /></p>
-          <p>HTML, CSS, Javascript, React, Vite - A LiveScores App to stay updated for all World Cup 2022 matches, stats, fixture and table</p>
+          <p>&nbsp;
+                      <a target="_blank" href="https://github.com/Aladdin4u/world-cup-2022"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://worldcup2022app.netlify.app/"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
+          <p align="left">HTML, CSS, Javascript, React, Vite - A LiveScores App to stay updated for all World Cup 2022 matches, stats, fixture and table</p>
                 </td>
                <td align="center">
-                  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aladdin4u&show_icons=true&theme=tokyonight" alt="aladdin4u" /></p>
+                  <a target="_blank" href="https://aladdin4u.github.io/Tenzies/"><h4>Tenzies</h4></a>
+        <br />
+      <a target="_blank" href="https://aladdin4u.github.io/Tenzies/">
+            <img src="https://user-images.githubusercontent.com/101972392/201551527-1eb3d0d6-dc37-46c4-8c1d-cdb0dc5c61e7.gif" width="100%"  alt="tenzies"/>
+        </a>
+          <p>&nbsp;
+                      <a target="_blank" href="https://github.com/Aladdin4u/Tenzies"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://aladdin4u.github.io/Tenzies/"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
+          <p align="left">HTML, CSS, Javascript, React, Vite - A dice game. Roll until all dice are the same. Click each die to freeze it at its current value between rolls.</p>
                 </td>
             </tr>
             </tbody>
