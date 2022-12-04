@@ -52,7 +52,7 @@
         </a>
           <p>&nbsp;
                       <a target="_blank" href="https://github.com/Aladdin4u/world-cup-2022"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://worldcup2022app.netlify.app/"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
-          <p align="left">HTML, CSS, Javascript, React, Vite - A LiveScores App to stay updated for all World Cup 2022 matches, stats, fixture and table</p>
+          <p align="left">HTML, CSS, Javascript, React, Vite - A LiveScores App to stay updated for all World Cup 2022 matches, stats, fixtures and tables</p>
                 </td>
             </tr>
              <tr>
@@ -64,7 +64,7 @@
         </a>
           <p>&nbsp;
                       <a target="_blank" href="https://github.com/Aladdin4u/game-of-thrones-character-api"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://game-of-throne-api.herokuapp.com/"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
-          <p align="left">HTML, CSS, JavaScript, Node.js Express - This api runs on Node.js with the help of express. When you send a request to the /houses page it return a json object with character list. Each house has a name and a code.</p>
+          <p align="left">HTML, CSS, JavaScript, Node.js Express - This api runs on Node.js with the help of express. When you send a request to the houses page it return a json object with character list. Each house has a name and a code.</p>
                 </td>
                <td align="center">
                   <a target="_blank" href="https://aladdin4u.github.io/Tenzies/"><h4>Tenzies</h4></a>
