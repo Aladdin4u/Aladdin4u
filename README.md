@@ -35,7 +35,7 @@
         <tbody>
             <tr>
               <td align="center">
-                  <a target="_blank" href="https://report-application-v1.herokuapp.com/"><h4>Report App</h4></a>
+                  <a target="_blank" href="https://reportaapp.onrender.com"><h4>Report App</h4></a>
         <br />
       <a target="_blank" href="https://reportaapp.onrender.com">
             <img src="https://user-images.githubusercontent.com/101972392/204688430-f0d44a27-6e92-4a95-a770-e1f08b11e7a6.gif" width="100%"  alt="report app"/>
@@ -57,13 +57,13 @@
             </tr>
              <tr>
               <td align="center">
-                    <a target="_blank" href="https://game-of-throne-api.herokuapp.com/"><h4>Game of Throne API</h4></a>
+                    <a target="_blank" href="https://gft.onrender.com"><h4>Game of Throne API</h4></a>
         <br />
-      <a target="_blank" href="https://game-of-throne-api.herokuapp.com/">
+      <a target="_blank" href="https://gft.onrender.com">
             <img src="https://user-images.githubusercontent.com/101972392/204691275-7ac6a949-0219-4e57-a4c0-2d6d68f27def.gif" width="100%"  alt="world-cup-2022"/>
         </a>
           <p>&nbsp;
-                      <a target="_blank" href="https://github.com/Aladdin4u/game-of-thrones-character-api"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://game-of-throne-api.herokuapp.com/"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
+                      <a target="_blank" href="https://github.com/Aladdin4u/game-of-thrones-character-api"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://gft.onrender.com"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
           <p align="left">HTML, CSS, JavaScript, Node.js Express - This api runs on Node.js with the help of express. When you send a request to the houses page it return a json object with character list. Each house has a name and a code.</p>
                 </td>
                <td align="center">
