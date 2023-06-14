@@ -1,6 +1,6 @@
 ![MasterHead banner](https://user-images.githubusercontent.com/101972392/193440137-03618e6d-b421-42c3-bb92-30be7e2abf6d.jpg)
-<h1 align="center">Hi 👋, I'm Inaolaji Taofeek (aladdin)</h1>
-<h3 align="center">A passionate full Stack software engineer from Nigeria,100Devs cohort member.</h3>
+<h1 align="center">Hi 👋, I'm Inaolaji Taofeek (Aladdin)</h1>
+<h3 align="center">A full Stack software engineer with industry experience building, and maintaining web applications. My passion for innovation and technology solves customer problems and transforms vision into reality</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aladdin4u&label=Profile%20views&color=0e75b6&style=flat" alt="aladdin4u" /> </p>
