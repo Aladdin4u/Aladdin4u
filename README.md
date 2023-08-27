@@ -42,7 +42,7 @@
         </a>
           <p>&nbsp;
                       <a target="_blank" href="https://github.com/Aladdin4u/report-incident-app"><img align="center" src="https://img.shields.io/static/v1?label=|&message=REPO&color=285f65&style=plastic&logo=github" alt="github" /></a> <a target="_blank" href="https://reportaapp.onrender.com"><img align="center" src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=285f65&style=plastic&logo=wordpress" alt="website" /></a></p>
-          <p align="left">HTML, CSS, Javascript, Node.js, Express, MongoDB, TailwindCSS - Report App for user to create, edit and delete report with the details with what has occured in real-time</p>
+          <p align="left">HTML, CSS, Javascript, Node.js, Express, MongoDB, TailwindCSS - Report App helps organizations to determine and secure personal and professional boundaries between employees. It helps deal with integrity violations and unwanted behavior. At the same time, it helps employees and employers to become more resilient in case they experience unwanted manners.</p>
                 </td>
               <td align="center">
                     <a target="_blank" href="https://worldcup2022app.netlify.app/"><h4>world-cup-2022</h4></a>
