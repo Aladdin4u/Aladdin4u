@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devaladdin" target="blank"><img src="https://img.shields.io/twitter/follow/devaladdin?logo=twitter&style=for-the-badge" alt="devaladdin" /></a> </p>
 
-- 🔭 I’m currently working on **Bug Tracker**
+- 🔭 I’m currently working on my **Dream Project**
 
 - 🌱 I’m currently learning **React Native**
 
