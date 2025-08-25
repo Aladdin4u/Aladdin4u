@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devaladdin.netlify.app/](https://devaladdin.netlify.app/)
 
-- 💬 Ask me about **React, React Native, JavaScript, NodeJs, Express, PHP, Laravel, Solidity, MongoDb, MYSSQL, PostgreSQL, CSS, TailwindCSS**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, NodeJs, Express, PHP, Laravel, Solidity, MongoDb, MYSSQL, PostgreSQL, CSS, TailwindCSS**
 
 - 📫 How to reach me **taofikakinkumi@gmail.com**
 
